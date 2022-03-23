@@ -1,0 +1,15 @@
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\bin\Debug\GetWindowsMac.exe.config
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\bin\Debug\GetWindowsMac.exe
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\bin\Debug\GetWindowsMac.pdb
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\GetWindowsMac.csprojAssemblyReference.cache
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\MainWindow.g.cs
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\App.g.cs
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\GetWindowsMac_MarkupCompile.cache
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\GetWindowsMac_MarkupCompile.lref
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\MainWindow.baml
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\GetWindowsMac.g.resources
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\GetWindowsMac.Properties.Resources.resources
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\GetWindowsMac.csproj.GenerateResource.cache
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\GetWindowsMac.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\GetWindowsMac.exe
+C:\Users\nacho\Desktop\Proyectos\GetWindowsMac\obj\Debug\GetWindowsMac.pdb
